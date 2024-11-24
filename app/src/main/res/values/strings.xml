@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CriminalIntent_2024</string>
+    <string name="crime_titre_mess">Saissez un titre pour cet incident.</string>
+    <string name="crime_titre">Titre incident</string>
+    <string name="crime_details">Détails incident</string>
+    <string name="crime_resolu">Résolu ?</string>
+    <string name="crime_date">Date incident</string>
+    <string name="nouvel_incident">Nouvel Incident</string>
+    <string name="delete_incident">delete incident</string>
+    <string name="texte_choix_suspect">Choix suspect</string>
+    <string name="texte_rapport_incident">Envoyer le rapport incident</string>
+    <string name="rapport_incident">%1$s! L\'incident a été découvert le %2$s. %3$s, et %4$s .</string>
+    <string name="rapport_incident_resolu"> L\'incident est résolu</string>
+    <string name="rapport_incident_pas_resolu">L\'incident n\'est pas résolu</string>
+    <string name="rapport_incident_pas_suspect">il n\'y a pas de suspect</string>
+    <string name="rapport_incident_suspect">le suspect est %s.</string>
+    <string name="rapport_incident_sujet">CriminalIntent Rapport Incident</string>
+    <string name="envoi_rapport">Envoyer le rapport incident via…</string>
+    <string name="texte_appel_rapport_incident">Appeler le suspect</string>
+    <string name="date_incident">Date incident</string>
+    <string name="time_incident">Time incident</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
